@@ -1,4 +1,10 @@
-These are some external articles (may or may not be written by us) which have great explanations for the respective topics:
+These are some external articles (may or may not be written by us) which have great explanations for the respective topics and/ or contain related practice problems:
+
+## Number Theory
+
+1. [Number Theory - 1 by Prateek Garg on HackerEarth](https://www.hackerearth.com/practice/notes/number-theory-1/)
+2. [Number Theory - II by HackerEarth on HackerEarth](https://www.hackerearth.com/practice/notes/number-theory-ii/)
+3. [Number Theory - III by Boris Sokolov on HackerEarth](https://www.hackerearth.com/practice/notes/number-theory-iii/)
 
 ## Dynamic Programming
 

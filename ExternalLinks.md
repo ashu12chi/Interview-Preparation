@@ -3,6 +3,7 @@ These are some external articles (may or may not be written by us) which have gr
 ## General
 
 1. [Important and Useful links from all over LeetCode by deepika135](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
+2. [Must Do Coding Questions for companies like amazon,microsoft and adobe - Geeks for Geeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
 ## Number Theory
 

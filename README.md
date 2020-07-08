@@ -1,6 +1,8 @@
 # Interview-Preparation
 This repository is created for the interview preparation of software companies.
 
+For external links to articles worth reading and solving on Programming topics [visit this link](https://github.com/ashu12chi/Interview-Preparation/blob/master/ExternalLinks.md).
+
 |Number| Question | Link | Solution Idea | Solution Link | Category| Company|
 | ---- | -------- | ---- | ------------- | ------------- | ------- | ------ |
 |1.| Find the repeating and missing number in array | https://www.interviewbit.com/problems/repeat-and-missing-number-array/ | <details><summary>Spoiler...</summary>Solve simultaneous equations created by either using sum and sum of squares or XORs or sum and product</details> | https://github.com/ashu12chi/Interview-Preparation/blob/master/Solutions/RepeatAndMissingNumberArray.java|| Amazon|

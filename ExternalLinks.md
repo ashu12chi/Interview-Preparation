@@ -1,4 +1,4 @@
-These are some external articles (may or may not be written by us) which have great explainations for the respective topics:
+These are some external articles (may or may not be written by us) which have great explanations for the respective topics:
 
 ## Dynamic Programming
 

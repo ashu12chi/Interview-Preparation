@@ -1,6 +1,8 @@
 These are some external articles (may or may not be written by us) which have great explanations for the respective topics and/ or contain related practice problems:
 
-[Important and Useful links from all over LeetCode by deepika135](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
+## General
+
+1. [Important and Useful links from all over LeetCode by deepika135](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 
 ## Number Theory
 

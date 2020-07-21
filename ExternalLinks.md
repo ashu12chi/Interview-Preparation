@@ -25,3 +25,9 @@ These are some external articles (may or may not be written by us) which have gr
 ## Graph
 
 1. [Graph For Beginners [Problems | Pattern | Sample Solutions] by wh0ami on LeetCode](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+
+## Useful links for those who do Competitive Programming in Java
+
+1. https://github.com/indy256/codelibrary/tree/master/java
+2. https://github.com/williamfiset/algorithms
+3. https://algs4.cs.princeton.edu/code/

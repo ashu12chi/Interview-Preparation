@@ -21,6 +21,7 @@ These are some external articles (may or may not be written by us) which have gr
 
 1. [DP for Beginners [Problems | Patterns | Sample Solutions] by wh0ami on LeetCode](https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)
 2. [Dynamic Programming Patterns by aatalyk on LeetCode](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
+3. [Top 20 Dynamic Programming Interview Questions on GeeksForGeeks](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
 
 ## Graph
 

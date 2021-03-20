@@ -1,7 +1,13 @@
 # Interview-Preparation
 This repository is created for the interview preparation of software companies.
 
-For external links to articles worth reading and solving on Programming topics [visit this link](https://github.com/ashu12chi/Interview-Preparation/blob/master/ExternalLinks.md).
+More:
+
+1. For external links to articles worth reading and solving on Programming topics [visit this link](https://github.com/ashu12chi/Interview-Preparation/blob/master/ExternalLinks.md).
+2. For even more preparation links [visit this](https://docs.google.com/document/d/1DDT8IPAFrIRYfS-kklX663NzZOfoUArxGTJLl8NmIgQ/edit).
+3. For final 450 problems to solve (no solution provided) [go here](https://docs.google.com/spreadsheets/d/1YunBdKSdic1mVn6xZlBd251TU48SPxyMDUyVXeQzGfc/edit#gid=1721626832).
+
+## Here is our collection:
 
 |Number| Question | Link | Solution Idea | Solution Link | Category| Company|
 | ---- | -------- | ---- | ------------- | ------------- | ------- | ------ |

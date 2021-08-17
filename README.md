@@ -63,3 +63,9 @@ More:
 | 50. | word-ladder-ii | https://www.interviewbit.com/problems/word-ladder-ii/ | <details> <summary> Spoiler... </summary> Use queue<vector<string>> with visited set<string> </details> | https://github.com/ashu12chi/Interview-Preparation/blob/master/Solutions/word-ladder-ii.cpp | Graph - shortest path | Google, Microsoft, Ebay |
 | 51. | Jump Game II | https://leetcode.com/problems/jump-game-ii/ | <details> <summary> Spoiler... </summary> Jump only when necessary . Think of greedily. </details> | https://github.com/ashu12chi/Interview-Preparation/blob/master/Solutions/JumpGameII.java | Array, Greedy | |
 | 52.| Geek collects the balls | https://practice.geeksforgeeks.org/problems/geek-collects-the-balls/0 | <details> <summary> Spoiler... </summary> Normal merging but take care when equal values are multiple </details> | https://github.com/ashu12chi/Interview-Preparation/blob/master/Solutions/geek-collects-the-balls.cpp | Greedy | |
+
+## Curated with love by:
+
+1. [Ashutosh Chitranshi](https://ashu12chi.github.io/)
+2. [Nikhil Kumar Singh](https://github.com/sakt-coder)
+3. [Nishchal Siddharth Pandey](https://nisiddharth.github.io/)
